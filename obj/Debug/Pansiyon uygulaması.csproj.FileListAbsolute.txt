@@ -1,0 +1,23 @@
+C:\Users\Asus\Desktop\Pansiyon Uygulaması\Pansiyon uygulaması\bin\Debug\Pansiyon uygulaması.exe.config
+C:\Users\Asus\Desktop\Pansiyon Uygulaması\Pansiyon uygulaması\bin\Debug\Pansiyon uygulaması.exe
+C:\Users\Asus\Desktop\Pansiyon Uygulaması\Pansiyon uygulaması\bin\Debug\Pansiyon uygulaması.pdb
+C:\Users\Asus\Desktop\Pansiyon Uygulaması\Pansiyon uygulaması\obj\Debug\Pansiyon uygulaması.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Pansiyon Uygulaması\Pansiyon uygulaması\obj\Debug\Pansiyon_uygulaması.Properties.Resources.resources
+C:\Users\Asus\Desktop\Pansiyon Uygulaması\Pansiyon uygulaması\obj\Debug\Pansiyon uygulaması.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Pansiyon Uygulaması\Pansiyon uygulaması\obj\Debug\Pansiyon uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Pansiyon Uygulaması\Pansiyon uygulaması\obj\Debug\Pansiyon uygulaması.exe
+C:\Users\Asus\Desktop\Pansiyon Uygulaması\Pansiyon uygulaması\obj\Debug\Pansiyon uygulaması.pdb
+C:\Users\Asus\Desktop\Pansiyon Uygulaması\Pansiyon uygulaması\obj\Debug\Pansiyon_uygulaması.FrmYeniMusteri.resources
+C:\Users\Asus\Desktop\Pansiyon Uygulaması\Pansiyon uygulaması\obj\Debug\Pansiyon_uygulaması.FrmAnaForm.resources
+C:\Users\Asus\Desktop\Pansiyon Uygulaması\Pansiyon uygulaması\obj\Debug\Pansiyon_uygulaması.FrmAdminGiris.resources
+C:\Users\Asus\Desktop\Pansiyon Uygulaması\Pansiyon uygulaması\obj\Debug\Pansiyon_uygulaması.FrmOdalar.resources
+C:\Users\Asus\Desktop\Pansiyon Uygulaması\Pansiyon uygulaması\obj\Debug\Pansiyon_uygulaması.FrmMusteriler.resources
+C:\Users\Asus\Desktop\Pansiyon Uygulaması\Pansiyon uygulaması\obj\Debug\Pansiyon_uygulaması.frmgelirgider.resources
+C:\Users\Asus\Desktop\Pansiyon Uygulaması\Pansiyon uygulaması\obj\Debug\Pansiyon_uygulaması.FrmStoklar.resources
+C:\Users\Asus\Desktop\Pansiyon Uygulaması\Pansiyon uygulaması\obj\Debug\Pansiyon_uygulaması.frmRadyo.resources
+C:\Users\Asus\Desktop\Pansiyon Uygulaması\Pansiyon uygulaması\bin\Debug\Interop.WMPLib.dll
+C:\Users\Asus\Desktop\Pansiyon Uygulaması\Pansiyon uygulaması\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Asus\Desktop\Pansiyon Uygulaması\Pansiyon uygulaması\obj\Debug\Interop.WMPLib.dll
+C:\Users\Asus\Desktop\Pansiyon Uygulaması\Pansiyon uygulaması\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Asus\Desktop\Pansiyon Uygulaması\Pansiyon uygulaması\obj\Debug\Pansiyon uygulaması.csproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\Pansiyon Uygulaması\Pansiyon uygulaması\obj\Debug\Pansiyon_uygulaması.frmsosyalmedya.resources
